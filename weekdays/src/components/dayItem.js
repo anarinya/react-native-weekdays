@@ -22,7 +22,7 @@ class DayItem extends Component {
 
   color() {
     let opacity = 1 / this.props.daysUntil;
-    return 'rgba(0, 0, 0, '+ opacity + ')';
+    return 'rgba(0, 255, 199, '+ opacity + ')';
   }
 
   fontWeight() {

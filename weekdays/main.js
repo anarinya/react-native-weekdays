@@ -28,7 +28,7 @@ class App extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#2c2d2d',
     alignItems: 'center', // Move width-wise in column mode
     justifyContent: 'center', // Move height-wise in column mode
   },
